@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Aug 18 16:57:01 IST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-018a-0866-10d3-000002dd19b8 
+on database directory memory:E:\Comp Cod\just\DataSpringboot\b4efd1c2-2e3a-422c-9596-ef7074059f3e with class loader org.springframework.boot.loader.LaunchedURLClassLoader@506c589e 
+Loaded from jar:file:/E:/Comp%20Cod/just/DataSpringboot/target/demo-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/derby-10.16.1.1.jar!/
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.2+8-LTS-86
+user.dir=E:\Comp Cod\just\DataSpringboot
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
